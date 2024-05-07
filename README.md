@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Prazer, Lucas Soares!
+
+<b>Natural de Salvador - BA, 29 anos.</b> 
+<br>
+<br>
+<i>Tecnologias:  <b>HTML; CSS3; Git e GitHub; JavaScript; Node; React;</b></i> 
+<br>
+<br>
+
+
+
 <!--
 **DevLucasSoares28/DevLucasSoares28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
